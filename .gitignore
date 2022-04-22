@@ -8,5 +8,4 @@
 /.umi-production
 /dist
 /.mfsu
-/.env
 /api
